@@ -1,18 +1,17 @@
 {
-  "last_run": "2026-09-07",
+  "last_run": "2026-09-08",
   "used_ids": [
     3,
     5,
+    6,
     11,
     12,
     15,
+    17,
     18,
-    19,
-    20,
-    21,
-    22
+    21
   ],
-  "total_solved": 36,
+  "total_solved": 39,
   "history": [
     {
       "date": "2026-08-27",
@@ -323,6 +322,32 @@
           "slug": "median-of-two-sorted-arrays",
           "difficulty": "Hard",
           "leetcode_url": "https://leetcode.com/problems/median-of-two-sorted-arrays/"
+        }
+      ]
+    },
+    {
+      "date": "2026-09-08",
+      "problems": [
+        {
+          "id": 6,
+          "title": "Remove Duplicates from Sorted Array",
+          "slug": "remove-duplicates-from-sorted-array",
+          "difficulty": "Easy",
+          "leetcode_url": "https://leetcode.com/problems/remove-duplicates-from-sorted-array/"
+        },
+        {
+          "id": 17,
+          "title": "Rotate Image",
+          "slug": "rotate-image",
+          "difficulty": "Medium",
+          "leetcode_url": "https://leetcode.com/problems/rotate-image/"
+        },
+        {
+          "id": 21,
+          "title": "Trapping Rain Water",
+          "slug": "trapping-rain-water",
+          "difficulty": "Hard",
+          "leetcode_url": "https://leetcode.com/problems/trapping-rain-water/"
         }
       ]
     }

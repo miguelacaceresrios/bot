@@ -23,14 +23,17 @@ Editá `config.json` para cambiar cuántos ejercicios resolver por día y cómo 
 
 ## Estadísticas
 
-- **Ejercicios resueltos:** 36
-- **Días de ejecución:** 12
-- **Última ejecución:** 2026-09-07
+- **Ejercicios resueltos:** 39
+- **Días de ejecución:** 13
+- **Última ejecución:** 2026-09-08
 
 ## Progreso diario
 
 | Fecha | Problema | Dificultad | Solución |
 |---|---|---|---|
+| 2026-09-08 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | Easy | [remove-duplicates-from-sorted-array.cs](solutions/Easy/006-remove-duplicates-from-sorted-array.cs) |
+| 2026-09-08 | [Rotate Image](https://leetcode.com/problems/rotate-image/) | Medium | [rotate-image.cs](solutions/Medium/017-rotate-image.cs) |
+| 2026-09-08 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | Hard | [trapping-rain-water.cs](solutions/Hard/021-trapping-rain-water.cs) |
 | 2026-09-07 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | Easy | [merge-two-sorted-lists.cs](solutions/Easy/005-merge-two-sorted-lists.cs) |
 | 2026-09-07 | [Coin Change](https://leetcode.com/problems/coin-change/) | Medium | [coin-change.cs](solutions/Medium/018-coin-change.cs) |
 | 2026-09-07 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | Hard | [median-of-two-sorted-arrays.cs](solutions/Hard/019-median-of-two-sorted-arrays.cs) |
