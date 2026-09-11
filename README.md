@@ -23,14 +23,17 @@ Editá `config.json` para cambiar cuántos ejercicios resolver por día y cómo 
 
 ## Estadísticas
 
-- **Ejercicios resueltos:** 45
-- **Días de ejecución:** 15
-- **Última ejecución:** 2026-09-10
+- **Ejercicios resueltos:** 48
+- **Días de ejecución:** 16
+- **Última ejecución:** 2026-09-11
 
 ## Progreso diario
 
 | Fecha | Problema | Dificultad | Solución |
 |---|---|---|---|
+| 2026-09-11 | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | [two-sum.cs](solutions/Easy/001-two-sum.cs) |
+| 2026-09-11 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | Medium | [group-anagrams.cs](solutions/Medium/014-group-anagrams.cs) |
+| 2026-09-11 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | Hard | [median-of-two-sorted-arrays.cs](solutions/Hard/019-median-of-two-sorted-arrays.cs) |
 | 2026-09-10 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | Easy | [reverse-integer.cs](solutions/Easy/002-reverse-integer.cs) |
 | 2026-09-10 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | Medium | [product-of-array-except-self.cs](solutions/Medium/016-product-of-array-except-self.cs) |
 | 2026-09-10 | [N-Queens](https://leetcode.com/problems/n-queens/) | Hard | [n-queens.cs](solutions/Hard/022-n-queens.cs) |
